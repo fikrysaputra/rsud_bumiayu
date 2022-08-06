@@ -6,7 +6,7 @@ import 'package:intl/intl.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import 'package:rsudbumiayu/dashboard.dart';
 
-import 'antrianpolisyaraf.dart';
+import 'antrianpoligigi.dart';
 import 'auth.dart';
 
 class VerifikasiGigi extends StatefulWidget {
